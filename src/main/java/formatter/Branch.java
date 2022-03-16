@@ -1,6 +1,6 @@
 package formatter;
 
-public class Lecture {
+public class Branch {
     public static void main(String[] args) {
         String productName = "Mug";
         int qty = 20;
@@ -13,6 +13,5 @@ public class Lecture {
         String output = name1 + name2;
         System.out.println(output);
         System.out.println(line);
-
     }
 }
